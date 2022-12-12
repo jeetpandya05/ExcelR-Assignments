@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-11T20:14:35 IST" name="Default suite" finished-at="2022-12-11T20:15:16 IST" duration-ms="40856">
+    <groups>
+    </groups>
+    <test started-at="2022-12-11T20:14:35 IST" name="Default test" finished-at="2022-12-11T20:15:16 IST" duration-ms="40856">
+      <class name="Module4.Assignment4Test">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:14:35 IST" name="browserLaunch" finished-at="2022-12-11T20:14:42 IST" duration-ms="7030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="printHeaders()[pri:1, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:14:42 IST" name="printHeaders" finished-at="2022-12-11T20:14:42 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHeaders -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:14:42 IST" name="quit" finished-at="2022-12-11T20:14:43 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:14:43 IST" name="browserLaunch" finished-at="2022-12-11T20:14:47 IST" duration-ms="4656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="printFeatures()[pri:2, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:14:47 IST" name="printFeatures" finished-at="2022-12-11T20:14:51 IST" duration-ms="3814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFeatures -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:14:51 IST" name="quit" finished-at="2022-12-11T20:14:51 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:14:51 IST" name="browserLaunch" finished-at="2022-12-11T20:14:57 IST" duration-ms="5421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="printTechnologies()[pri:3, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:14:57 IST" name="printTechnologies" finished-at="2022-12-11T20:15:01 IST" duration-ms="4500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTechnologies -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:15:01 IST" name="quit" finished-at="2022-12-11T20:15:01 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:15:01 IST" name="browserLaunch" finished-at="2022-12-11T20:15:07 IST" duration-ms="5284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="testgetQuote()[pri:4, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:15:07 IST" name="testgetQuote" finished-at="2022-12-11T20:15:16 IST" duration-ms="8993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetQuote -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Module4.Assignment4Test@68999068]" started-at="2022-12-11T20:15:16 IST" name="quit" finished-at="2022-12-11T20:15:16 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Module4.Assignment4Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
